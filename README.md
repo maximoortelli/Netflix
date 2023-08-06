@@ -45,4 +45,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<a href="https://netlix-clone-maximo.netlify.app/"><img src=""></a>
+<a href="https://netlix-clone-maximo.netlify.app/"><img src="PRESENTATION1.jpg"></a>
